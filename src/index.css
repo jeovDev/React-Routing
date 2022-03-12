@@ -50,12 +50,13 @@ li:hover{
 .Home{
     padding: 0;
     margin: 0;
-  
+   
     width: 100vw;
     display: flex;
     height: 100vh;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
+    
 }
 .About{
     padding: 0;
